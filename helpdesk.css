@@ -1,0 +1,15 @@
+/*css voor ala helpdesk*/
+
+html {
+    background-image: url(images/123.jpg);
+}
+
+footer {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#h {
+    text-align: center;
+    margin-top: 8px;
+}
